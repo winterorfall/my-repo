@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8513301-7582-4538-a5a2-c53de3b02f1f" name="更改" comment="完成学生管理系统核心类编写：包含 Main、Student、StudentManager、DatabaseConnection 等类">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/student/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/student/manager/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/student/util/DatabaseConnection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="388YXDeJdL2yS3WfMysWKmFrasZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/Main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/1.111.设计/大二上（Java）/untitled/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "应用程序.Main.executor": "Run"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a8513301-7582-4538-a5a2-c53de3b02f1f" name="更改" comment="" />
+      <created>1768182706184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768182706184</updated>
+    </task>
+    <task id="LOCAL-00001" summary="完成学生管理系统核心类编写：包含 Main、Student、StudentManager、DatabaseConnection 等类”">
+      <option name="closed" value="true" />
+      <created>1768210809764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768210809764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成学生管理系统核心类编写：包含 Main、Student、StudentManager、DatabaseConnection 等类”" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成学生管理系统核心类编写：包含 Main、Student、StudentManager、DatabaseConnection 等类”" />
+  </component>
+</project>
